@@ -1,6 +1,6 @@
 # AsusLeak        
 Proof of Concept of AsusLeak Vulnerability.                   
-CVE-2018-18287          
+**CVE-2018-18287**         
 
 # How to use      
 
