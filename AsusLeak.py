@@ -26,7 +26,8 @@ def ExtractTime(ip):
 	time = result.group(1)
 	time = time.replace("\\","")
 	time = time.replace("'","")
-	print(time)
+	print("Time data:")
+	print(time.strip())
 	
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser(description='AsusWRT DHCP extract')
